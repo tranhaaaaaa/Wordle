@@ -1,0 +1,15 @@
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+D:\SWP-Project\Game\bin\Debug\net6.0\Game.exe
+D:\SWP-Project\Game\bin\Debug\net6.0\Game.deps.json
+D:\SWP-Project\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+D:\SWP-Project\Game\bin\Debug\net6.0\Game.dll
+D:\SWP-Project\Game\bin\Debug\net6.0\Game.pdb
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.dll
+D:\SWP-Project\Game\obj\Debug\net6.0\refint\Game.dll
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.pdb
+D:\SWP-Project\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+D:\SWP-Project\Game\obj\Debug\net6.0\ref\Game.dll
